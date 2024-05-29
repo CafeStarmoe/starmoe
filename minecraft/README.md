@@ -6,9 +6,7 @@
 - 下载并安装Azul Zulu  
 *以下内容来自Azul官方文档，原地址为<https://docs.azul.com/core/install/debian#install-deb-package>*
   - 导入Azul的apt镜像源  
-`
-apt -y install gnupg ca-certificates curl  
-`  
+> apt -y install gnupg ca-certificates curl  
 `  
 curl -s https://repos.azul.com/azul-repo.key | sudo gpg --dearmor -o /usr/share/keyrings/azul.gpg  
 `  
