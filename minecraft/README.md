@@ -53,14 +53,14 @@ java --version
 ### 下载Minecraft服务端文件  
 ***本教程在此处以paper为例，如需使用其他的服务端文件，请自行参考其官方文档进行部署***  
 - 前往paper官网下载最新的发行包  
-<https://papermc.io/downloads/paper>
+<https://papermc.io/downloads/paper>  
 
 `
 mkdir ./minecraft && cd minecraft
 `  
 
 `
-curl-sSL https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/115/downloads/paper-1.20.6-115.jar
+wget https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/115/downloads/paper-1.20.6-115.jar
 `  
 - 配置JVM并运行  
 
