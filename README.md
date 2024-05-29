@@ -16,7 +16,7 @@
   - 端口：80  
   - 请将SSL方框的√去掉  
 
-![1](https://github.com/YuCraft/starmoe/blob/main/pics/1.png)  
+![1](http://cafe.ycmt.top/d/user/pic/1.png)  
 ![2](https://github.com/YuCraft/starmoe/blob/main/pics/2.png)  
 ![3](https://github.com/YuCraft/starmoe/blob/main/pics/3.png)  
 ![4](https://github.com/YuCraft/starmoe/blob/main/pics/4.png)  
