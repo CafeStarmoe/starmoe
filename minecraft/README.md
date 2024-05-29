@@ -8,25 +8,25 @@
   - 导入Azul的apt镜像源  
 `
 apt -y install gnupg ca-certificates curl  
-`
-`
+`  
+`  
 curl -s https://repos.azul.com/azul-repo.key | sudo gpg --dearmor -o /usr/share/keyrings/azul.gpg  
-`
-`
+`  
+`  
 echo "deb [signed-by=/usr/share/keyrings/azul.gpg] https://repos.azul.com/zulu/deb stable main" | sudo tee /etc/apt/sources.list.d/zulu.list  
 `  
   - 更新apt镜像源  
-`
+`  
 apt -y update  
 `  
   - 安装zulu17  
-`
+`  
 apt -y install zulu17-jdk   
 `  
   - 查看Java安装信息
-`
+`  
 java --version
-`
+`  
 
 
 #### 使用Oracle官方JVM(不推荐)  
