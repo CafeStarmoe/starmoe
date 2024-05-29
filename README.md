@@ -40,10 +40,10 @@ https://dn.kmplayer.com/Dn/Mobile/kmp64_4202210.apk
   - 密码：anime  
   - 服务器名称：随意填写  
 
-![a1](http://cafe.ycmt.top/d/user/pic/a1.png)  
-![a2](http://cafe.ycmt.top/d/user/pic/a2.png)  
-![a3](http://cafe.ycmt.top/d/user/pic/a3.png)  
-![a4](http://cafe.ycmt.top/d/user/pic/a4.png)  
+![a1](http://cafe.ycmt.top/d/user/pic/a1.jpg)  
+![a2](http://cafe.ycmt.top/d/user/pic/a2.jpg)  
+![a3](http://cafe.ycmt.top/d/user/pic/a3.jpg)  
+![a4](http://cafe.ycmt.top/d/user/pic/a4.jpg)  
 
 ### 其他软件   
 待更新  
