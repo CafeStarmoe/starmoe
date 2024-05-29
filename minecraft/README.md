@@ -61,7 +61,7 @@ curl-sSL https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/115/dow
 java -jar paper-1.20.6-115.jar
 `  
 
-第一次启动会报错，但是会在当前目录下生成EULA.txt文件，我们需要编辑里面的内容
+第一次启动会报错，但是会在当前目录下生成EULA.txt文件，我们需要编辑里面的内容  
 `
 vi EULA.txt
 `  
