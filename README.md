@@ -16,12 +16,12 @@
   - 端口：80  
   - 请将SSL方框的√去掉  
 
-![1](http://cafe.ycmt.top/d/user/pic/1.png)  
-![2](http://cafe.ycmt.top/d/user/pic/2.png)  
-![3](http://cafe.ycmt.top/d/user/pic/3.png)  
-![4](http://cafe.ycmt.top/d/user/pic/4.png)  
-![5](http://cafe.ycmt.top/d/user/pic/5.png)  
-![6](http://cafe.ycmt.top/d/user/pic/6.png)  
+![1](https://github.com/YuCraft/starmoe/blob/main/pics/1.png)  
+![2](https://github.com/YuCraft/starmoe/blob/main/pics/2.png)  
+![3](https://github.com/YuCraft/starmoe/blob/main/pics/3.png)  
+![4](https://github.com/YuCraft/starmoe/blob/main/pics/4.png)  
+![5](https://github.com/YuCraft/starmoe/blob/main/pics/5.png)  
+![6](https://github.com/YuCraft/starmoe/blob/main/pics/6.png)  
 
 ### 其他软件
 待更新
