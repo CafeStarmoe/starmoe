@@ -99,5 +99,5 @@ apt -y install tmux
 `
 tmux new -s minecraft
 `  
-在新建的分离终端运行参考上述再次运行mincraft服务端  
+在新建的分离终端参考上述再次运行mincraft服务端  
 大功告成，您现在可以关闭终端窗口了，您的Minecraft服务器依然在运行中  
