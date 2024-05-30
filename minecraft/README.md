@@ -54,6 +54,7 @@ java -version
 ***本教程在此处以paper为例，如需使用其他的服务端文件，请自行参考其官方文档进行部署***  
 - 前往paper官网下载最新的发行包  
 <https://papermc.io/downloads/paper>  
+
 `
 mkdir ./minecraft && cd minecraft
 `  
