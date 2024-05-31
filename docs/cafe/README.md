@@ -16,12 +16,12 @@
   - 端口：80  
   - 请将SSL方框的√去掉  
 
-![1](http://cafe.ycmt.top/d/user/pic/1.png)  
-![2](http://cafe.ycmt.top/d/user/pic/2.png)  
-![3](http://cafe.ycmt.top/d/user/pic/3.png)  
-![4](http://cafe.ycmt.top/d/user/pic/4.png)  
-![5](http://cafe.ycmt.top/d/user/pic/5.png)  
-![6](http://cafe.ycmt.top/d/user/pic/6.png)  
+![1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/1.png)  
+![2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/2.png)  
+![3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/3.png)  
+![4](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/4.png)  
+![5](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/5.png)  
+![6](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/6.png)  
 
 ### 其他软件  
 待更新  
@@ -40,10 +40,10 @@ https://dn.kmplayer.com/Dn/Mobile/kmp64_4202210.apk
   - 密码：anime  
   - 服务器名称：随意填写  
 
-![a1](http://cafe.ycmt.top/d/user/pic/a1.jpg)  
-![a2](http://cafe.ycmt.top/d/user/pic/a2.jpg)  
-![a3](http://cafe.ycmt.top/d/user/pic/a3.jpg)  
-![a4](http://cafe.ycmt.top/d/user/pic/a4.jpg)  
+![a1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a1.png)  
+![a2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a2.png)  
+![a3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a3.png)  
+![a4](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a4.png)  
 
 ### 其他软件   
 待更新  
@@ -63,9 +63,9 @@ https://dn.kmplayer.com/Dn/Mobile/kmp64_4202210.apk
   - 路径：/dav  
   - HTTPS：不开启  
 
-![i1](http://cafe.ycmt.top/d/user/pic/i1.jpg)  
-![i2](http://cafe.ycmt.top/d/user/pic/i2.jpg)  
-![i3](http://cafe.ycmt.top/d/user/pic/i3.jpg)  
+![i1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i1.png)  
+![i2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i2.png)  
+![i3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i3.png)  
 
 ### 其他软件
 待更新
