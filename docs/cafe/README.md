@@ -40,10 +40,10 @@ https://dn.kmplayer.com/Dn/Mobile/kmp64_4202210.apk
   - 密码：anime  
   - 服务器名称：随意填写  
 
-![a1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a1.png)  
-![a2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a2.png)  
-![a3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a3.png)  
-![a4](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a4.png)  
+![a1](images/a1.jpg)  
+![a2](images/a2.jpg)  
+![a3](images/a3.jpg)  
+![a4](images/a4.jpg)  
 
 ### 其他软件   
 待更新  
@@ -63,9 +63,9 @@ https://dn.kmplayer.com/Dn/Mobile/kmp64_4202210.apk
   - 路径：/dav  
   - HTTPS：不开启  
 
-![i1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i1.png)  
-![i2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i2.png)  
-![i3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i3.png)  
+![i1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i1.jpg)  
+![i2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i2.jpg)  
+![i3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i3.jpg)  
 
 ### 其他软件
 待更新
