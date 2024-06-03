@@ -25,7 +25,7 @@ echo "deb [signed-by=/usr/share/keyrings/azul.gpg] https://repos.azul.com/zulu/d
 apt -y update
 `  
 
-  - 安装zulu17  
+  - 安装zulu  
 
 `
 apt -y install zulu21-jdk
