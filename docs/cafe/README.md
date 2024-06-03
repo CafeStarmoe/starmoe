@@ -1,4 +1,4 @@
-# 快速入门  
+# 星萌咖啡屋WebDAV API使用教程  
 ## Windows  
 ### PotPlayer  
   
@@ -16,12 +16,12 @@
   - 端口：80  
   - 请将SSL方框的√去掉  
 
-![1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/1.png)  
-![2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/2.png)  
-![3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/3.png)  
-![4](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/4.png)  
-![5](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/5.png)  
-![6](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/6.png)  
+![1](images/1.png)  
+![2](images/2.png)  
+![3](images/3.png)  
+![4](images/4.png)  
+![5](images/5.png)  
+![6](images/6.png)  
 
 ### 其他软件  
 待更新  
@@ -40,10 +40,10 @@ https://dn.kmplayer.com/Dn/Mobile/kmp64_4202210.apk
   - 密码：anime  
   - 服务器名称：随意填写  
 
-![a1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a1.png)  
-![a2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a2.png)  
-![a3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a3.png)  
-![a4](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/a4.png)  
+![a1](images/a1.jpg)  
+![a2](images/a2.jpg)  
+![a3](images/a3.jpg)  
+![a4](images/a4.jpg)  
 
 ### 其他软件   
 待更新  
@@ -63,9 +63,9 @@ https://dn.kmplayer.com/Dn/Mobile/kmp64_4202210.apk
   - 路径：/dav  
   - HTTPS：不开启  
 
-![i1](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i1.png)  
-![i2](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i2.png)  
-![i3](https://github.com/CafeStarmoe/starmoe/tree/main/docs/cafe/images/i3.png)  
+![i1](images/i1.jpg)  
+![i2](images/i2.jpg)  
+![i3](images/i3.jpg)  
 
 ### 其他软件
 待更新
